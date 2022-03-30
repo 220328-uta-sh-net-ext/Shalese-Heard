@@ -1,0 +1,37 @@
+ $ # Shell Programming
+
+
+## **History of Linux and shell**
+Shell is a commonly used term in Linux operating systems. It is the interface between the operating user system adn you, providing access to services of a Kernal. Ultimately, it executes commands.n the operating user system adn you, providing access to services of a KernaLinix began in 1991, by a Finnish student Linus Torvalds, as a new operating system kernal. It started off as a private source of codes, but eventually became a major source of codes open to tthe public. in 1991, by a Finnish student Linus Torvalds, as a new operating sys## **Getting Started With Shell Programming**e of codes, but eventually became a major source of codes open to tthe public.
+### **Introduction to the Bash Shell**mming**
+A command line is a text user interface. One can use such an interface to provide instructions to a Linux Power computer. Our text user interfeace is GitBash
+* Developed by [GNU](https://bash.cyberciti.biz/guide/GNU) project                                                                                                                              * The default Linux shell on most Linux distributionssuch an interface to provid* Backward-compatible with the original sh UNIX shell                                                                                                                                           * The ```$``` is the command line prompt when bash is waiting for a command from the user. We typically call this the command prompt or shell prompt. If you are a root user the default prompt will be ```#```                                                                                                 * The default Linux shell on most Linux distribu### **Shell Commands**
+* Backward-compatible with the original sh UNIX shell                           $ ^C# Shell Programmingds for bash shell                                                                        * The ```$``` is the command line prompt when ba* Internal commans(builtins) = part of the shell itself call this the command pr## **History of Linux and shell**naries stored in /sbin, /usr/sbin, /usr/bin, /bin, or /usr/local/bin directories
+Shell is a commonly used term in Linux operating systems. It is the interface between the operating user system adn you, providing access to services of a Kernal. Ultimately, it executes commands.n the operating user system adn you, providing access to services of a KernaLinix began in 1991, by a Finnish student Linus Torvalds, as a new operating system kernal. It started off as a private source of codes, but eventually became a major source of codes open to tthe public. in 1991, by a Finnish student Linus Torvalds, as a new operating sys## **Getting Started With Shell Programming**e of codes, but eventually became a major source of codes open to tthe public.
+### **Introduction to the Bash Shell**mming**
+A command line is a text user interface. One can use such an interface to provide instructions to a Linux Power computer. Our text user interfeace is GitBash
+* Developed by [GNU](https://bash.cyberciti.biz/guide/GNU) project                                                                                                                              * The default Linux shell on most Linux distributionssuch an interface to provid* Backward-compatible with the original sh UNIX shell                                                                                                                                           * The ```$``` is the command line prompt when bash is waiting for a command from the user. We typically call this the command prompt or shell prompt. If you are a root user the default prompt will be ```#```                                                                                                 * The default Linux shell on most Linux distribu### **Shell Commands**es and Environment**
+* Backward-compatible with the original sh UNIX shell                           The two types of commands for bash shell                                                                        * The ```$``` is the command line prompt when ba* Internal commans(builtins) = part of the shell itself call this the command pr* External commands - seperate binaries stored in /sbin, /usr/sbin, /usr/bin, /bin, or /usr/local/bin directories
+
+Execute commands using these three parts
+
+1. The command
+2. Options that typically start with a ```-``` or ```--```
+3. Argument
+
+The Bash shell understands the following commands:
+
+* **Aliases** such as ```ll```
+* **Keywords** such as ```if```
+* **Functions**
+* **Built in** such as ```pwd```
+* **Files** such as ```/bin/date```
+## **The Shell Variables and Environment**
+
+
+
+References
+^[[200~https://www.tutorialspoint.com/unix/unix-environment.html
+
+TheGoddessCanyon@LAPTOP-ODKBCG5F MINGW64 ~
+$
